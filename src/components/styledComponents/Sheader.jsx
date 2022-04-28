@@ -14,6 +14,7 @@ const StyledHeader = styled.div`
 
   .title {
     font-size: 3em;
+    padding-top: 0.5em;
   }
 `;
 
