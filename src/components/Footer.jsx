@@ -4,7 +4,7 @@ function Footer() {
   return (
     <StyledFooter>
       <div className='footer'>
-        <p>Réalisé par Jason en Anthestérion de l'an 515 avant JC</p>
+        <p>Réalisé par Christophe en l'an 2022 après JC</p>
       </div>
     </StyledFooter>
   );
